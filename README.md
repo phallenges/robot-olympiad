@@ -10,3 +10,4 @@ heart rate sensor:https://peppe8o.com/pulse-sensor-with-raspberry-pi-pico-hearth
 gsm module : https://spotpear.com/index/study/detail/id/592.html#:~:text=The%20Pico-SIM868-GSM%2FGPRS%2FGNSS%20is%20a%20GSM%2C%20GPRS%2C%20GNSS%2C,and%20Bluetooth%20module%20designed%20for%20Raspberry%20Pi%20Pico.
 water pump: https://www.pcbway.com/project/shareproject/Automatic_Plant_Watering_System_using_Raspberry_Pi_Pico.html
 oled display:https://microcontrollerslab.com/oled-display-raspberry-pi-pico-micropython-tutorial/
+hmc5883l:https://how2electronics.com/interfacing-hmc5883l-magnetometer-with-raspberry-pi-pico/
