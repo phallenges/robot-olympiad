@@ -11,4 +11,7 @@ gsm module : https://spotpear.com/index/study/detail/id/592.html#:~:text=The%20P
 water pump: https://www.pcbway.com/project/shareproject/Automatic_Plant_Watering_System_using_Raspberry_Pi_Pico.html
 oled display:https://microcontrollerslab.com/oled-display-raspberry-pi-pico-micropython-tutorial/
 hmc5883l:https://how2electronics.com/interfacing-hmc5883l-magnetometer-with-raspberry-pi-pico/
+button code:https://microcontrollerslab.com/push-button-raspberry-pi-pico-tutorial/
+pot code:https://peppe8o.com/potentiometer-raspberry-pi-pico-micropython/
+buzzer code:https://www.tomshardware.com/how-to/buzzer-music-raspberry-pi-pico
 
