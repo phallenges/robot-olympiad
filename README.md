@@ -15,4 +15,5 @@ button code:https://microcontrollerslab.com/push-button-raspberry-pi-pico-tutori
 pot code:https://peppe8o.com/potentiometer-raspberry-pi-pico-micropython/
 buzzer code:https://www.tomshardware.com/how-to/buzzer-music-raspberry-pi-pico
 passive buzzer code:https://peppe8o.com/passive-buzzer-with-raspberry-pi-pico-and-micropython/
+dc motor:https://peppe8o.com/l293d-and-dc-motor-with-raspberry-pi-pico-and-micropython/
 
